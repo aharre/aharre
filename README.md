@@ -1,4 +1,6 @@
-### Hi there 👋
+- 👋🏼 Hi, I’m [Asmus Harre](https://www.linkedin.com/in/asmusharre/). I help companies and organisations navigate complexity using social data science.
+- 💬 Ask me about 𝚁.
+- 📫 Reach me at [asmus@itdepends.dk](mailto:asmus@itdepends.dk).
 
 <!--
 **aharre/aharre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
